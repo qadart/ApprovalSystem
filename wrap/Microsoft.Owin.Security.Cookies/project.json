@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net451": {
+      "bin": {
+        "assembly": "../../lib/net451/Microsoft.Owin.Security.Cookies.dll"
+      },
+      "dependencies": {
+        "Microsoft.Owin": "1.0.0-*"
+      }
+    }
+  }
+}
